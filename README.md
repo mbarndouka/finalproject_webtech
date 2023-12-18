@@ -29,8 +29,10 @@ Usage:
 Open your web browser and go to http://localhost:8080.
 Register a new account.
 Log in using your credentials.
-Upload pictures by clicking "Upload."
-Download pictures by clicking "Download."
+add client
+create invoice
+download in different format
+Download the list of client
 Organize pictures into albums.
 Screenshots:
 
