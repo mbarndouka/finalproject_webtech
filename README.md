@@ -37,6 +37,6 @@ Organize pictures into albums.
 Screenshots:
 
 
-Link to access Invoice app:
+Link to the documentation Invoice app: https://docs.google.com/document/d/1j-TPIGgZwxOXI7yWtCzQeXYRHXlaqw9ZDVPH6wcIFkU/edit?usp=sharing
 
 Enjoy using Invoice App! For any questions or assistance, contact us. Happy uploading and downloading!"
